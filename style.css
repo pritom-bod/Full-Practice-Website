@@ -1,0 +1,117 @@
+#name{
+    color: rgb(249, 142, 43);
+    font-size: 50px;
+    margin-left: 20%;
+    
+}
+#hello{
+
+    font-size: 35px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+#firstp{
+    margin-left: 20%;
+    
+}
+.button{
+    margin-top: 20%;
+    margin-left: 20%;
+    text-decoration: none;
+    background-color: rgb(249, 142, 43);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(224, 99, 118) tomato);
+}
+
+.first-devide{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 300px;
+    padding: 2%;
+    
+    
+}
+.first-devide img{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bgimage{
+    background-image: url("images/header-bg.png");
+    
+}
+section{
+    height:1000px;
+    
+}
+#Biography{
+    font-size: 35px;
+    margin-top: 25%;
+}
+.button2{
+
+    text-decoration: none;
+    background-color: rgb(249, 142, 43);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(224, 99, 118) tomato);
+
+}
+.bgimage2{
+    background-image: url("images/biography-bg.png");
+}
+.imagemanage{
+    width: 25%;
+    float: left;
+   
+    margin-top: 0%;
+    padding: 1%;
+
+}
+.imagemanage img{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#first-margin{
+    margin-left: 10%;
+}
+.bgimage3{
+    background-image: url("images/latest-work-bg.png");
+}
+#Letest{
+    margin-top: 15%;
+    font-size: 30px;
+    text-align: center;
+}
+.under{
+    margin-top: 20%;
+    text-align: center;
+}
+.button3{
+    
+    font-size: 25px;
+    text-decoration: none;
+    background-color: rgb(249, 142, 43);
+    padding: 20px 30px;
+    border-radius: 5px;
+    width: 10px;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(224, 99, 118) tomato);
+
+}
+.lastbg{
+    background-image: url("images/footer-bg.png");
+}
+#span{
+    text-align: center;
+    font-size: 15px;
+}
+#center{
+    text-align: center;
+}
